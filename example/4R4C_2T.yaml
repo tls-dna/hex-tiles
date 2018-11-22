@@ -1,0 +1,948 @@
+Ord_55713_Protectors_0:
+  rows:
+    A:
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_0_3_1_A
+      plate_id: A1
+      pos: [0, 3, L]
+      protector: true
+      seq: [ATGGCCCACTC, '', CTCAGGGGAG, CTACAGTATTA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_0_4_1_A
+      plate_id: A2
+      pos: [0, 4, L]
+      protector: true
+      seq: [TGCCCGGTATA, '', TTCGTTGGGA, AAAAGGTAAGA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_5_1_C
+      plate_id: A3
+      pos: [1, 5, L]
+      protector: true
+      seq: [CGCAATCCTTC, '', CAATGCAGGG, AAACGGATCGT]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_5_1_C
+      plate_id: A4
+      pos: [2, 5, L]
+      protector: true
+      seq: [TCTACCTTAGT, '', AGTCAGACTG, GTTGCGGTTAC]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_0_2_C
+      plate_id: A5
+      pos: [3, 0, R]
+      protector: true
+      seq: [TCAGCAGTCGT, '', TCAGTCCTTA, GAACGAATCGA]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_5_1_C
+      plate_id: A6
+      pos: [3, 5, L]
+      protector: true
+      seq: [TTATAGGTGAA, '', ACATCACTGT, GAACTAAGTCC]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_0_2_C
+      plate_id: A7
+      pos: [4, 0, R]
+      protector: true
+      seq: [CATAGCAATCT, '', TTATGAGATG, TACGAAGAATC]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_5_1_C
+      plate_id: A8
+      pos: [4, 5, L]
+      protector: true
+      seq: [TCAAATCGCGC, '', GGAACGCGCC, ATTATAGGTCG]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_5_1_2_A
+      plate_id: A9
+      pos: [5, 1, R]
+      protector: true
+      seq: [TATTCTGAGAA, '', CGACTTGAAC, TTCGTCCCCAG]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_5_2_2_A
+      plate_id: A10
+      pos: [5, 2, R]
+      protector: true
+      seq: [GTACCTGGCTT, '', AGGTTTAACG, GGTTAGCAGTT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_5_3_2_A
+      plate_id: A11
+      pos: [5, 3, R]
+      protector: true
+      seq: [CGTCGCAACGC, '', TCGCAACAAC, CGGTCATCTCA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_5_4_2_A
+      plate_id: A12
+      pos: [5, 4, R]
+      protector: true
+      seq: [TCAATACGATC, '', AGCTTCCCTG, TTAAGAAAATC]
+      stype: A
+    C:
+    - design: [R32C, R32C_2sp, 4R4C_2T]
+      name: FJ_1_1_0_A
+      plate_id: C7
+      pos: [0, 1, L]
+      protector: true
+      seq: [GCAACGTTTCC, '', CGTCTGATCA, TAGCTTCTGGC]
+      spacer_id: []
+      stype: A
+      vol[ul]: null
+    - design: [R32C, R32C_2sp, 4R4C_2T]
+      name: FJ_1_2_0_A
+      plate_id: C8
+      pos: [0, 2, L]
+      protector: true
+      seq: [AAGCCACCAAC, '', CTACTTCTGG, CCGAACATTCC]
+      spacer_id: []
+      stype: A
+      vol[ul]: null
+    D:
+    - design: [R32C, R32C_2sp, 4R4C_2T]
+      name: FJ_2_0_2_C
+      plate_id: D3
+      pos: [2, 0, R]
+      protector: true
+      seq: [GACAGATCTGT, '', AGCTTCCGTT, ACCATACGTGG]
+      spacer_id: []
+      stype: C
+      vol[ul]: null
+    - design: [R32C, R32C_2sp, 4R4C_2T]
+      name: FJ_2_0_1_C
+      plate_id: D4
+      pos: [1, 0, R]
+      protector: true
+      seq: [TACGTAACGGG, '', TGTGAAGAGG, AAGGTACCCAG]
+      spacer_id: []
+      stype: C
+      vol[ul]: null
+Ord_55713_Staples_0:
+  rows:
+    A:
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_3_1_A
+      plate_id: A1
+      pos: [1, 3, L]
+      protector: false
+      seq: [GTCAGATGACT, TT, AAACTAGAAGG, GTGAAACGAC]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_3_1_B
+      plate_id: A2
+      pos: [1, 3, L]
+      protector: false
+      seq: [GGGGATACAGA, TT, TAGCATGCTTT, AGCTTCGGTA]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_3_1_C
+      plate_id: A3
+      pos: [1, 3, L]
+      protector: false
+      seq: [TAGAGGACTCC, TT, AAGCTCGTACC, CACTAAGGTG]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_3_2_A
+      plate_id: A4
+      pos: [1, 3, R]
+      protector: false
+      seq: [ATGATCTCACC, TT, TAATACTGTAG, CTCCCCTGAG]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_3_2_B
+      plate_id: A5
+      pos: [1, 3, R]
+      protector: false
+      seq: [GAGTGGGCCAT, TT, GGAGTCCTCTA, TACCGAAGCT]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_3_2_C
+      plate_id: A6
+      pos: [1, 3, R]
+      protector: false
+      seq: [AAAGCATGCTA, TT, TTTCTTCTGGC, ATCAGCTCTC]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_4_1_A
+      plate_id: A7
+      pos: [1, 4, L]
+      protector: false
+      seq: [GCCAGAAGAAA, TT, CTGCCATTGTA, TCCGAACTTC]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_4_1_B
+      plate_id: A8
+      pos: [1, 4, L]
+      protector: false
+      seq: [TTACTATCCTC, TT, AATATCCCAAG, GTCGGAAGCG]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_4_1_C
+      plate_id: A9
+      pos: [1, 4, L]
+      protector: false
+      seq: [AAAGATAGCAT, TT, GGTGAGATCAT, GAGAGCTGAT]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_4_2_A
+      plate_id: A10
+      pos: [1, 4, R]
+      protector: false
+      seq: [GAAGGATTGCG, TT, TCTTACCTTTT, TCCCAACGAA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_4_2_B
+      plate_id: A11
+      pos: [1, 4, R]
+      protector: false
+      seq: [TATACCGGGCA, TT, ATGCTATCTTT, CGCTTCCGAC]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_1_4_2_C
+      plate_id: A12
+      pos: [1, 4, R]
+      protector: false
+      seq: [CTTGGGATATT, TT, ACGATCCGTTT, CCCTGCATTG]
+      stype: C
+    B:
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_3_1_A
+      plate_id: B1
+      pos: [2, 3, L]
+      protector: false
+      seq: [CCTACAACACT, TT, AGGACAGTCTA, ATCCCCTGAA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_3_1_B
+      plate_id: B2
+      pos: [2, 3, L]
+      protector: false
+      seq: [GAGGCTACAAA, TT, AATATCTCCGT, TAGGTCCATT]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_3_1_C
+      plate_id: B3
+      pos: [2, 3, L]
+      protector: false
+      seq: [TTATGGATTGG, TT, TACCCTCGTTC, GCTTTACGTC]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_3_2_A
+      plate_id: B4
+      pos: [2, 3, R]
+      protector: false
+      seq: [TTTCACGTAAA, TT, TCTGTATCCCC, GTCGTTTCAC]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_3_2_B
+      plate_id: B5
+      pos: [2, 3, R]
+      protector: false
+      seq: [CCTTCTAGTTT, TT, CCAATCCATAA, AATGGACCTA]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_3_2_C
+      plate_id: B6
+      pos: [2, 3, R]
+      protector: false
+      seq: [ACGGAGATATT, TT, CAGTCGAGGTT, TTTCAAATCT]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_4_1_A
+      plate_id: B7
+      pos: [2, 4, L]
+      protector: false
+      seq: [AACCTCGACTG, TT, AACCATTGAGG, CCCCCTATCA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_4_1_B
+      plate_id: B8
+      pos: [2, 4, L]
+      protector: false
+      seq: [GTTGTAACGTG, TT, TAAACAATCGC, TTTGACACAT]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_4_1_C
+      plate_id: B9
+      pos: [2, 4, L]
+      protector: false
+      seq: [GGCTGGAGCAA, TT, TTTACGTGAAA, AGATTTGAAA]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_4_2_A
+      plate_id: B10
+      pos: [2, 4, R]
+      protector: false
+      seq: [ACTAAGGTAGA, TT, GAGGATAGTAA, GAAGTTCGGA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_4_2_B
+      plate_id: B11
+      pos: [2, 4, R]
+      protector: false
+      seq: [TACAATGGCAG, TT, TTGCTCCAGCC, ATGTGTCAAA]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_2_4_2_C
+      plate_id: B12
+      pos: [2, 4, R]
+      protector: false
+      seq: [GCGATTGTTTA, TT, GTAACCGCAAC, CAGTCTGACT]
+      stype: C
+    C:
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_1_1_A
+      plate_id: C1
+      pos: [3, 1, L]
+      protector: false
+      seq: [ACGACTGCTGA, TT, AGTCGTTTGGC, AACTAGCAGT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_1_1_B
+      plate_id: C2
+      pos: [3, 1, L]
+      protector: false
+      seq: [AATACCTGCGA, TT, CATGCTTCGTC, TAACAGTGGG]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_1_1_C
+      plate_id: C3
+      pos: [3, 1, L]
+      protector: false
+      seq: [TCGTGATGTGC, TT, TCGATTCGTTC, TAAGGACTGA]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_2_1_A
+      plate_id: C4
+      pos: [3, 2, L]
+      protector: false
+      seq: [GGTCTTAGTGC, TT, TTCAACGAGGC, ACGATCCACT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_2_1_B
+      plate_id: C5
+      pos: [3, 2, L]
+      protector: false
+      seq: [TACCGTCTTAA, TT, ATCTGTCCCAT, AACCACGTCT]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_2_1_C
+      plate_id: C6
+      pos: [3, 2, L]
+      protector: false
+      seq: [GCTTATGACCT, TT, TATCACAGGGT, GAGTTGCTTG]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_3_1_A
+      plate_id: C7
+      pos: [3, 3, L]
+      protector: false
+      seq: [CTTGGCAAGAC, TT, AATAGAATGGA, AGGTCTAGTT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_3_1_B
+      plate_id: C8
+      pos: [3, 3, L]
+      protector: false
+      seq: [ATAATCAATGA, TT, AATTATGACCC, ACACGTCTTG]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_3_1_C
+      plate_id: C9
+      pos: [3, 3, L]
+      protector: false
+      seq: [TTGATAACCAT, TT, CTCTCTGTCTT, AGCTCATTGG]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_3_2_A
+      plate_id: C10
+      pos: [3, 3, R]
+      protector: false
+      seq: [CCTACGCAAGT, TT, TTTGTAGCCTC, TTCAGGGGAT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_3_2_B
+      plate_id: C11
+      pos: [3, 3, R]
+      protector: false
+      seq: [TAGACTGTCCT, TT, ATGGTTATCAA, CAAGACGTGT]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_3_2_C
+      plate_id: C12
+      pos: [3, 3, R]
+      protector: false
+      seq: [GGGTCATAATT, TT, AGCTGTTATGA, GACCGGTACG]
+      stype: C
+    D:
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_4_1_A
+      plate_id: D1
+      pos: [3, 4, L]
+      protector: false
+      seq: [TCATAACAGCT, TT, ACACCTTATAT, CGGGGCTTAC]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_4_1_B
+      plate_id: D2
+      pos: [3, 4, L]
+      protector: false
+      seq: [CCCAGCCACAC, TT, GTGACTTGAGA, GGCTTAAGTC]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_4_1_C
+      plate_id: D3
+      pos: [3, 4, L]
+      protector: false
+      seq: [ATGGATAATGC, TT, ACTTGCGTAGG, CGTACCGGTC]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_4_2_A
+      plate_id: D4
+      pos: [3, 4, R]
+      protector: false
+      seq: [TTCACCTATAA, TT, CACGTTACAAC, TGATAGGGGG]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_4_2_B
+      plate_id: D5
+      pos: [3, 4, R]
+      protector: false
+      seq: [CCTCAATGGTT, TT, GCATTATCCAT, GACTTAAGCC]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_3_4_2_C
+      plate_id: D6
+      pos: [3, 4, R]
+      protector: false
+      seq: [TCTCAAGTCAC, TT, GGACTTAGTTC, ACAGTGATGT]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_1_1_A
+      plate_id: D7
+      pos: [4, 1, L]
+      protector: false
+      seq: [AGATTGCTATG, TT, CTGGGGACGAA, GTTCAAGTCG]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_1_1_B
+      plate_id: D8
+      pos: [4, 1, L]
+      protector: false
+      seq: [TTCTCAGAATA, TT, CTTTGAACGGT, GGCAACACCA]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_1_1_C
+      plate_id: D9
+      pos: [4, 1, L]
+      protector: false
+      seq: [AACTTGCCATC, TT, GATTCTTCGTA, CATCTCATAA]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_1_2_A
+      plate_id: D10
+      pos: [4, 1, R]
+      protector: false
+      seq: [AGAAAACGAAA, TT, TCGCAGGTATT, ACTGCTAGTT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_1_2_B
+      plate_id: D11
+      pos: [4, 1, R]
+      protector: false
+      seq: [GCCAAACGACT, TT, GATGGCAAGTT, TGGTGTTGCC]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_1_2_C
+      plate_id: D12
+      pos: [4, 1, R]
+      protector: false
+      seq: [ACCGTTCAAAG, TT, CTGCAAATAGA, TATCTTCCTA]
+      stype: C
+    E:
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_2_1_A
+      plate_id: E1
+      pos: [4, 2, L]
+      protector: false
+      seq: [TCTATTTGCAG, TT, AACTGCTAACC, CGTTAAACCT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_2_1_B
+      plate_id: E2
+      pos: [4, 2, L]
+      protector: false
+      seq: [AAGCCAGGTAC, TT, GTATTCCAGAG, CCTTTTGGTG]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_2_1_C
+      plate_id: E3
+      pos: [4, 2, L]
+      protector: false
+      seq: [TTATAGACACA, TT, TTTCGTTTTCT, TAGGAAGATA]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_2_2_A
+      plate_id: E4
+      pos: [4, 2, R]
+      protector: false
+      seq: [CGACTGATAAC, TT, TTAAGACGGTA, AGTGGATCGT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_2_2_B
+      plate_id: E5
+      pos: [4, 2, R]
+      protector: false
+      seq: [GCCTCGTTGAA, TT, TGTGTCTATAA, CACCAAAAGG]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_2_2_C
+      plate_id: E6
+      pos: [4, 2, R]
+      protector: false
+      seq: [CTCTGGAATAC, TT, CATGCGTACAT, TGTTACATCC]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_3_1_A
+      plate_id: E7
+      pos: [4, 3, L]
+      protector: false
+      seq: [ATGTACGCATG, TT, TGAGATGACCG, GTTGTTGCGA]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_3_1_B
+      plate_id: E8
+      pos: [4, 3, L]
+      protector: false
+      seq: [GCGTTGCGACG, TT, TGCAGACAGAT, CTCAAACTGT]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_3_1_C
+      plate_id: E9
+      pos: [4, 3, L]
+      protector: false
+      seq: [TATATACAGAG, TT, GTTATCAGTCG, GGATGTAACA]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_3_2_A
+      plate_id: E10
+      pos: [4, 3, R]
+      protector: false
+      seq: [TACGTATAATA, TT, TCATTGATTAT, AACTAGACCT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_3_2_B
+      plate_id: E11
+      pos: [4, 3, R]
+      protector: false
+      seq: [TCCATTCTATT, TT, CTCTGTATATA, ACAGTTTGAG]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_3_2_C
+      plate_id: E12
+      pos: [4, 3, R]
+      protector: false
+      seq: [ATCTGTCTGCA, TT, CAGATAAACCA, AGTAACATGT]
+      stype: C
+    F:
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_4_1_A
+      plate_id: F1
+      pos: [4, 4, L]
+      protector: false
+      seq: [TGGTTTATCTG, TT, GATTTTCTTAA, CAGGGAAGCT]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_4_1_B
+      plate_id: F2
+      pos: [4, 4, L]
+      protector: false
+      seq: [GATCGTATTGA, TT, TGAACGTACAA, CCAGTGCAGA]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_4_1_C
+      plate_id: F3
+      pos: [4, 4, L]
+      protector: false
+      seq: [GGATAAAGGAG, TT, TATTATACGTA, ACATGTTACT]
+      stype: C
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_4_2_A
+      plate_id: F4
+      pos: [4, 4, R]
+      protector: false
+      seq: [GCGCGATTTGA, TT, GTGTGGCTGGG, GTAAGCCCCG]
+      stype: A
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_4_2_B
+      plate_id: F5
+      pos: [4, 4, R]
+      protector: false
+      seq: [ATATAAGGTGT, TT, CTCCTTTATCC, TCTGCACTGG]
+      stype: B
+    - connection: false
+      design: [4R4C_2T]
+      name: MM_4_4_2_C
+      plate_id: F6
+      pos: [4, 4, R]
+      protector: false
+      seq: [TTGTACGTTCA, TT, CGACCTATAAT, GGCGCGTTCC]
+      stype: C
+Plate_64076:
+  rows:
+    A:
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_1_1_A
+      plate_id: A1
+      pos: [1, 1, L]
+      protector: false
+      seq: [CCCGTTACGTA, TT, CGGAGGTAAAG, GCTGCAAATC]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_1_1_B
+      plate_id: A2
+      pos: [1, 1, L]
+      protector: false
+      seq: [CCTCTTTGGTA, TT, GCTACTTAGGG, GTTGTACTCC]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_1_1_C
+      plate_id: A3
+      pos: [1, 1, L]
+      protector: false
+      seq: [CCTTGTCCTAC, TT, CTGGGTACCTT, CCTCTTCACA]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_1_A
+      plate_id: A4
+      pos: [1, 1, R]
+      protector: false
+      seq: [TCTGATCCAGA, TT, GCCAGAAGCTA, TGATCAGACG]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_1_B
+      plate_id: A5
+      pos: [1, 1, R]
+      protector: false
+      seq: [GGAAACGTTGC, TT, GTAGGACAAGG, GGAGTACAAC]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_1_C
+      plate_id: A6
+      pos: [1, 1, R]
+      protector: false
+      seq: [CCCTAAGTAGC, TT, CTGATGCTGGA, GGAATCCTCT]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_2_1_A
+      plate_id: A7
+      pos: [1, 2, L]
+      protector: false
+      seq: [TCCAGCATCAG, TT, TCTCTAGCGAT, CGTGTGAAGT]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_2_1_B
+      plate_id: A8
+      pos: [1, 2, L]
+      protector: false
+      seq: [TGGCATTCTGG, TT, TTCCTCACGAC, GTGGTTAGGT]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_2_1_C
+      plate_id: A9
+      pos: [1, 2, L]
+      protector: false
+      seq: [CATACCCGTTT, TT, TCTGGATCAGA, AGAGGATTCC]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_1_A
+      plate_id: A10
+      pos: [1, 2, R]
+      protector: false
+      seq: [GGTACGAGCTT, TT, GGAATGTTCGG, CCAGAAGTAG]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_1_B
+      plate_id: A11
+      pos: [1, 2, R]
+      protector: false
+      seq: [GTTGGTGGCTT, TT, AAACGGGTATG, ACCTAACCAC]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_1_C
+      plate_id: A12
+      pos: [1, 2, R]
+      protector: false
+      seq: [GTCGTGAGGAA, TT, AGTCATCTGAC, CACCTTAGTG]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    B:
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_1_2_A
+      plate_id: B1
+      pos: [2, 1, L]
+      protector: false
+      seq: [ACAGATCTGTC, TT, GTCACTATCGC, CGAAGCAAAG]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_1_2_B
+      plate_id: B2
+      pos: [2, 1, L]
+      protector: false
+      seq: [AGAACCTCGAA, TT, TACGAGATCGC, CAACGCTTGT]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_1_2_C
+      plate_id: B3
+      pos: [2, 1, L]
+      protector: false
+      seq: [TAGCACCTACG, TT, CCACGTATGGT, AACGGAAGCT]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_2_A
+      plate_id: B4
+      pos: [2, 1, R]
+      protector: false
+      seq: [ACAACCAGATG, TT, TACCAAAGAGG, GATTTGCAGC]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_2_B
+      plate_id: B5
+      pos: [2, 1, R]
+      protector: false
+      seq: [CTTTACCTCCG, TT, CGTAGGTGCTA, ACAAGCGTTG]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_2_C
+      plate_id: B6
+      pos: [2, 1, R]
+      protector: false
+      seq: [GCGATCTCGTA, TT, ATTGCAAACCG, TGCATGACTG]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_2_2_A
+      plate_id: B7
+      pos: [2, 2, L]
+      protector: false
+      seq: [CGGTTTGCAAT, TT, TCTCAGCTACC, ACCTCGTTCT]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_2_2_B
+      plate_id: B8
+      pos: [2, 2, L]
+      protector: false
+      seq: [ATGATGCAGCC, TT, ATGAACTGGGG, GCCGAAATGT]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_1_2_2_C
+      plate_id: B9
+      pos: [2, 2, L]
+      protector: false
+      seq: [ACTTTCAGGCT, TT, CATCTGGTTGT, CAGTCATGCA]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_2_A
+      plate_id: B10
+      pos: [2, 2, R]
+      protector: false
+      seq: [GAACGAGGGTA, TT, CCAGAATGCCA, ACTTCACACG]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_2_B
+      plate_id: B11
+      pos: [2, 2, R]
+      protector: false
+      seq: [ATCGCTAGAGA, TT, AGCCTGAAAGT, ACATTTCGGC]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_2_C
+      plate_id: B12
+      pos: [2, 2, R]
+      protector: false
+      seq: [CCCCAGTTCAT, TT, AGTGTTGTAGG, GACGTAAAGC]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    C:
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_3_A
+      plate_id: C1
+      pos: [3, 1, R]
+      protector: false
+      seq: [ACCCTGTGATA, TT, TTCGAGGTTCT, CTTTGCTTCG]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_3_B
+      plate_id: C2
+      pos: [3, 1, R]
+      protector: false
+      seq: [GCGATAGTGAC, TT, GCACATCACGA, CCCACTGTTA]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_1_3_C
+      plate_id: C3
+      pos: [3, 1, R]
+      protector: false
+      seq: [GACGAAGCATG, TT, GCACTAAGACC, CAAGCAACTC]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_3_A
+      plate_id: C4
+      pos: [3, 2, R]
+      protector: false
+      seq: [AAGACAGAGAG, TT, GGCTGCATCAT, AGAACGAGGT]
+      spacer_id: [1]
+      stype: A
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_3_B
+      plate_id: C5
+      pos: [3, 2, R]
+      protector: false
+      seq: [GGTAGCTGAGA, TT, AGGTCATAAGC, AGACGTGGTT]
+      spacer_id: [1]
+      stype: B
+      vol[ul]: null
+    - design: [R3C2_2sp, 4R4C_2T]
+      name: FJm_2_2_3_C
+      plate_id: C6
+      pos: [3, 2, R]
+      protector: false
+      seq: [ATGGGACAGAT, TT, GTCTTGCCAAG, CCAATGAGCT]
+      spacer_id: [1]
+      stype: C
+      vol[ul]: null
