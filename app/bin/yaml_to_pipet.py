@@ -1,4 +1,4 @@
-from yaml import load
+from yaml import full_load
 
 to_pipet_staples = 0
 def pipetting_description(plate_name, plate):
@@ -73,7 +73,7 @@ files = [#"../designs/old_design/3R2C_2T.yaml",
 f = files[0]
 with open(f) as file:
     print(f)
-    plates = load(file.read())
+    plates = full_load(file.read())
 
 plate_list_existing = []
 plate_list_order = []
