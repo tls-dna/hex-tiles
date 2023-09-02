@@ -1,6 +1,6 @@
 from os.path import basename
 from random import randint
-from yaml import load
+from yaml import full_load
 from PyQt5.QtGui import QPainter, QColor
 from PyQt5.QtWidgets import QGraphicsView, QGraphicsScene, QMessageBox
 
@@ -70,7 +70,7 @@ class Grid(QGraphicsView):
         # path = "./designs/3R2C_2T.yaml"
         with open(path[0], "r") as file:
             # designs = load(file)["Plate_62129"]
-            data = load(file)  # ["Plate_64076"]
+            data = full_load(file)  # ["Plate_64076"]
 
         for plate_name, plate in data.items():
             print(plate_name)
